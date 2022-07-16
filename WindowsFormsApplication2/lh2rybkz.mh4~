@@ -1,0 +1,153 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace WindowsFormsApplication2
+{
+    
+    public partial class FrmIntroducir : Form
+    {
+        
+        ObjetoGlobal objeto;
+        public FrmIntroducir(ObjetoGlobal objeto)
+        {
+            InitializeComponent();
+            this.objeto = objeto;
+            
+            Bitmap img = new Bitmap(Application.StartupPath + @"\img\3.jpg");
+
+            this.BackgroundImage = img;
+            this.BackgroundImageLayout = ImageLayout.Stretch;
+
+        }
+
+        
+        
+
+        private void FrmIntroducir_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            System.Windows.Forms.Application.Exit();
+        }
+
+        private void lblAtras_Click(object sender, EventArgs e)
+        {
+            FrmInicio inicio = new FrmInicio();
+            inicio.Show();
+            Hide();
+
+
+        }
+
+        private void lblSiguiente_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "")
+            {
+                lblProblema.Text = "Faltan campos por completar";
+               
+                return;
+            }
+          
+            if (textBox1.Text == "" || textBox2.Text == "" || textBox3.Text == "")
+            {
+                lblProblema.Text = "Faltan campos por completar";
+                
+                return;
+            }
+            int numeroMayorEnFicha = Convert.ToInt32(textBox1.Text);
+            int cantidadDeJugadores = Convert.ToInt32(textBox3.Text);
+            int cantidadFichasMano = Convert.ToInt32(textBox2.Text);
+
+            if ( (numeroMayorEnFicha+1)*(numeroMayorEnFicha+2)/2<cantidadFichasMano*cantidadDeJugadores)
+            {
+                lblProblema.Text = "Debe cambiar los parámetros tiene " + (numeroMayorEnFicha + 1) * (numeroMayorEnFicha + 2) / 2;
+                label1.Text = " fichas disponibles y necesita mas de " +cantidadDeJugadores*cantidadFichasMano;
+                return;
+            }
+            objeto.cantidadJugadores = cantidadDeJugadores;
+            objeto.FichasPorMano = cantidadFichasMano;
+            objeto.UltimNumero = numeroMayorEnFicha;
+            frmSelectOptions options = new frmSelectOptions(this,objeto);
+            options.Show();
+            this.Hide();
+        }
+        private int numero;
+        public int CantidadDeJugadores
+        {
+            get
+            {
+                return numero;
+            }
+            set
+            {
+
+            }
+        } 
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                
+
+                    string cantJugadores = textBox3.Text;
+
+                    numero = int.Parse(cantJugadores);
+                    
+                
+            }
+            catch (System.Exception )
+            {
+                lblProblema.Text = "Esta intoduciendo valores invalidos";
+                textBox3.Text = "";
+            }
+            
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                string cantFichasPorMano = textBox2.Text;
+                var numerofichas = int.Parse(cantFichasPorMano);
+
+            }
+            catch (System.Exception)
+            {
+                lblProblema.Text = "Esta intoduciendo valores invalidos";
+                textBox2.Text = "";
+            }
+        }
+        
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+            try
+            {
+                string NumeroMayor = textBox1.Text;
+                var numeromayor = int.Parse(NumeroMayor);
+
+            }
+            catch (System.Exception )
+            {
+                lblProblema.Text = "Esta intoduciendo valores invalidos";
+                textBox1.Text = "";
+            }
+        }
+
+        private void FrmIntroducir_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

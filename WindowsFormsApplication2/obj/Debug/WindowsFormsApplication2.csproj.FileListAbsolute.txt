@@ -1,0 +1,239 @@
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.AssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.SuggestedBindingRedirects.cache
+C:\Users\amanda\Desktop\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\amanda\Desktop\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\amanda\Desktop\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\7\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJugar_Torneo.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\amanda\Desktop\12\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\13 falta poner ganadores\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\13 falta poner ganadores\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\13 falta poner ganadores\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\13 falta poner ganadores\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\13 falta poner ganadores\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\13 falta poner ganadores\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form6.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.dll
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\bin\Debug\ClassLibraryDomino.pdb
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmInicio.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmSelectOptions.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FrmIntroducir.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.frmJuego.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\13 falta poner ganadores - Copy\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\amanda\Desktop\Proyecto Para entregar\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\amanda\Desktop\Proyecto Para entregar\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\amanda\Desktop\Proyecto Para entregar\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

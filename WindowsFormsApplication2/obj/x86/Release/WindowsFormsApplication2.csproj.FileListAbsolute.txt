@@ -1,0 +1,11 @@
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Release\WindowsFormsApplication2.exe.config
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\bin\x86\Release\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.FrmInicio.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.frmSelectOptions.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.FrmIntroducir.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.frmIntroducirJugadores.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.Properties.Resources.resources
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.exe
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Release\WindowsFormsApplication2.pdb

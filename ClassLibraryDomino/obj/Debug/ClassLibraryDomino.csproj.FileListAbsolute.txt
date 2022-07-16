@@ -1,0 +1,56 @@
+D:\Universidad\Segundo año\Programacion\windows form\WindowsFormProyectoInterfazGrafica\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\windows form\Proyecto con interfaz gráfica 2\Proyecto\WindowsFormProyectoInterfazGrafica\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\Proyecto\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\Proyecto\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\5\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\6\Proyecto\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\7\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+E:\7\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+E:\7\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+E:\7\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+E:\7\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+E:\7\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+D:\Universidad\Segundo año\Programacion\todos\9\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\11\Proyecto fichas chulas\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\12\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\12\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+C:\Users\amanda\Desktop\12\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+C:\Users\amanda\Desktop\12\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+C:\Users\amanda\Desktop\12\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
+D:\13 falta poner ganadores - Copy\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.dll
+D:\13 falta poner ganadores - Copy\ClassLibraryDomino\bin\Debug\ClassLibraryDomino.pdb
+D:\13 falta poner ganadores - Copy\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.csprojResolveAssemblyReference.cache
+D:\13 falta poner ganadores - Copy\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.dll
+D:\13 falta poner ganadores - Copy\ClassLibraryDomino\obj\Debug\ClassLibraryDomino.pdb
